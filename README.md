@@ -1,0 +1,1 @@
+Ce projet consiste en la création d'une base de données relationnelle pour l'entreprise X, spécialisée dans la fabrication de produits industriels. L'objectif est de gérer et de suivre les programmes d'innovation, les évaluations par un panel externe, ainsi que l'utilisation des composants issus de l'inventaire pour les projets aboutis.
